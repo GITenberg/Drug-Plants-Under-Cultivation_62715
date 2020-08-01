@@ -1,5 +1,8 @@
 _repo: Drug-Plants-Under-Cultivation_62715
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62715-h/images/cover.png
 creator:
   author:
     agent_name: Stockberger, W. W. (Warner Webster)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '52088'
     url: http://www.gutenberg.org/2009/agents/52088
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62715#Drug-Plants-Under-Cultivation
 gutenberg_issued: '2020-07-20'
 gutenberg_type: Text
 identifiers:
